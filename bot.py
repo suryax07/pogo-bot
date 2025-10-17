@@ -4,8 +4,8 @@ from keep_alive import keep_alive
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
 
 # --- SETTINGS ---
-BOT_TOKEN = os.getenv("8460070207:AAGYRIx5-Y2bI8qfPUNpYfJBv_QnVowPM0k")
-CHAT_ID = os.getenv("@Titan_X_369")  # Your Telegram user ID
+BOT_TOKEN = os.getenv("BOT_TOKEN")
+CHAT_ID = os.getenv("CHAT_ID")  # Your Telegram user ID
 STREAM_URL = "https://m3umergers.xyz/artl/artl.ts?id=a02p"
 # ----------------
 
